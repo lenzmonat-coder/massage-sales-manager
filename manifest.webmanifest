@@ -2,16 +2,16 @@
   "name": "マッサージ売上管理",
   "short_name": "売上管理",
   "description": "もみほぐし・オイルマッサージ店向けの売上/客数/歩合管理アプリ",
-  "id": "./",
-  "start_url": "./",
-  "scope": "./",
+  "id": "/massage-sales-manager/",
+  "start_url": "/massage-sales-manager/",
+  "scope": "/massage-sales-manager/",
   "display": "standalone",
   "background_color": "#f5f1e8",
   "theme_color": "#23302d",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "./icon.svg",
+      "src": "/massage-sales-manager/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
