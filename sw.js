@@ -1,4 +1,4 @@
-const CACHE_NAME = "massage-sales-manager-v4";
+const CACHE_NAME = "massage-sales-manager-v5";
 const BASE_URL = self.registration.scope;
 const APP_SHELL = [BASE_URL, `${BASE_URL}index.html`, `${BASE_URL}manifest.webmanifest`, `${BASE_URL}icon.svg`];
 
